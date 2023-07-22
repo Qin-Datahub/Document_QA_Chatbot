@@ -1,1 +1,3 @@
-# Document_QA_Chatbot
+# Document QA Chatbot with OpenAI API
+
+![chatbot screenshot](chatbot.png)
