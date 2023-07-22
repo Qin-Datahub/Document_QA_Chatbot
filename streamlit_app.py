@@ -8,7 +8,6 @@ from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 from streamlit_chat import message
 from sidebar import side_bar
-from file_uploader import upload_file
 from transformers import GPT2TokenizerFast
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
